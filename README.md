@@ -1,0 +1,2 @@
+# Project-2-Smart-Calendar
+A school project developed, once more, solely by myself. This program replicates a smart calendar which allows the user to add projects with names, decriptions, and hours to a calendar. The calendar, which is built from the ground-up, will automatically decrement a project's remaining hours as the hours roll by. Furthermore, the user can also set their hours free. This means that a user can set exactly when they are available to perform a task.
